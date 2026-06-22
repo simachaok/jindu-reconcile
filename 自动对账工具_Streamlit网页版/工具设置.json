@@ -1,0 +1,8 @@
+{
+  "drug_file": "C:\\Users\\simac\\Documents\\Codex\\2026-06-21\\new-chat-2\\outputs\\自动对账工具_Streamlit网页版\\示例文件\\药店数据模板.xls",
+  "bank_file": "C:\\Users\\simac\\Documents\\Codex\\2026-06-21\\new-chat-2\\outputs\\自动对账工具_Streamlit网页版\\示例文件\\银行数据模板.xls",
+  "declare_file": "C:\\Users\\simac\\Documents\\Codex\\2026-06-21\\new-chat-2\\outputs\\自动对账工具_Streamlit网页版\\示例文件\\申报表模板.xlsx",
+  "output_folder": "C:\\Users\\simac\\Documents\\Codex\\2026-06-21\\new-chat-2\\outputs\\自动对账工具_Streamlit网页版\\测试输出",
+  "config_file": "C:\\Users\\simac\\Documents\\Codex\\2026-06-21\\new-chat-2\\outputs\\自动对账工具_Streamlit网页版\\模板文件\\业务规则配置总表.xlsx",
+  "high_invoice_file": "C:\\Users\\simac\\Documents\\Codex\\2026-06-21\\new-chat-2\\outputs\\自动对账工具_Streamlit网页版\\模板文件\\高开票对账模板.xlsx"
+}
