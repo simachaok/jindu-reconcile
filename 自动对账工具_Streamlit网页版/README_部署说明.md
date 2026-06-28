@@ -18,9 +18,12 @@ streamlit_app.py
 
 - `streamlit_app.py`
 - `auto_reconcile_tool.py`
+- `data_cleaning_core.py`
 - `requirements.txt`
+- `pages/2_数据清洗.py`
 - `模板文件/业务规则配置总表.xlsx`
 - `模板文件/高开票对账模板.xlsx`
+- `数据清洗模板/`
 - `示例文件/`
 - `说明资料/`
 
@@ -38,6 +41,12 @@ streamlit_app.py
 - 高开票对账表
 
 执行后页面会提供 `对账结果汇总表` 下载。
+
+## 新增数据清洗页面
+
+同一个 Streamlit 网址左侧会出现 `数据清洗` 页面。该页面当前支持上传供应商出库 Excel 文件，按 `数据清洗模板` 中的表头映射、药品资料、供货商编码、供货单位编码和价格规则生成清洗结果压缩包。
+
+当前网页第一版暂不直接运行原 Windows EXE，也暂不把 PDF/OCR/AI 密钥写入公开仓库。后续如果要支持 PDF 解析，建议使用 Streamlit Secrets 配置密钥。
 
 ## 隐私提醒
 
